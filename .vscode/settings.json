@@ -1,0 +1,6 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "git init": true,
+        "git remote": true
+    }
+}
