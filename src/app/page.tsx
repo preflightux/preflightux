@@ -44,11 +44,7 @@ export default function LandingPage() {
                     </span>
                 </span>
             }
-            description={
-              <span className="text-lg md:text-xl">
-                Run high-fidelity, interactive simulations of specialized user personas against early product artifacts to surface deep usability friction before writing a single line of production code.
-              </span>
-            }
+            description="Run high-fidelity, interactive simulations of specialized user personas against early product artifacts to surface deep usability friction before writing a single line of production code."
             badge="Calibrated Synthetic UX Testing"
             background={
                 <OrbBackground
