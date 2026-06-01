@@ -1,11 +1,72 @@
-# PreflightUX — Strategic Manifesto & Operating Model
-### Crystalizing the Value Proposition, IP Strategy, and Phased Expansion Plan for Calibrated Synthetic UX Testing
+# PreflightUX
 
-**Domain:** [preflightux.com](https://preflightux.com) · **Repository:** [github.com/preflightux](https://github.com/preflightux)  
-**Author:** Shalom Ormsby  
-**Status:** Canonical Strategy & Value Manifesto
+### Empirical signal before the build.
+
+**PreflightUX runs calibrated synthetic expert users against your early designs, prototypes, and PRDs — surfacing deep workflow friction before you write a line of production code.**
+
+*The signal you need before the decision you can't redo.*
+
+**Site:** [preflightux.com](https://preflightux.com) · **Author:** Shalom Ormsby · **Status:** Pre-launch — first design-partner engagement in progress
 
 ---
+
+## What PreflightUX does
+
+Discovering a UX flaw in a shipped product costs orders of magnitude more than catching it in design. But the specialized users who would surface that flaw — growth scientists, SREs, clinicians, associate lawyers — are scarce, expensive, and slow to recruit before there is anything built to test.
+
+PreflightUX closes that gap. A cohort of **synthetic expert personas** drives your actual interface (or reads your PRD), thinking aloud and hitting friction the way your real power users would — and every finding is graded against the **foundational UX evaluation frameworks human researchers already trust**. The result is empirical, defensible signal at the design stage, with a published score telling you exactly how much to trust it.
+
+## What you get
+
+Each engagement delivers a structured usability audit:
+
+- **Synthetic expert-user audit** — a cohort of grounded, skill-graded personas runs your early artifacts and generates interaction traces.
+- **Foundational-framework scoring** — every finding evaluated against **Nielsen's 10 usability heuristics** plus **heuristic evaluation** and **cognitive walkthrough**, with **severity ratings** (0–4), not vibes.
+- **Auditable Actor / Critic critique** — an independent Judge Agent reviews each session against domain-specific heuristics, producing a traceable critique you can defend in a design review.
+- **Published calibration score** — a measurement of how closely the synthetic findings track real users, published openly.
+
+## Grounded in foundational UX science
+
+Synthetic expert users are the bleeding-edge part. The standards they're judged by are not. PreflightUX evaluates every finding against the same battle-tested frameworks expert UX researchers have used for decades — so the signal is novel in how it's produced and orthodox in how it's assessed.
+
+The **Judge Agent** scores every session against:
+
+- **Nielsen's 10 usability heuristics** — visibility of system status, match to the real world, user control & freedom, consistency & standards, error prevention, recognition over recall, flexibility & efficiency, aesthetic & minimalist design, error recovery, and help & documentation.
+- **Heuristic evaluation** — structured inspection against the full heuristic set, the way a trained evaluator panel would.
+- **Cognitive walkthrough** — step-by-step task attempts that expose where the user's mental model breaks.
+- **Severity ratings** — findings scored on frequency, impact, and persistence, so the right things get fixed first.
+
+…alongside the domain-specific heuristics authored for your product.
+
+## How it works
+
+1. **Artifact in** — a prototype, a Figma flow, or a written PRD. No production code required.
+2. **Double-grounded personas** — grounded in real, anonymized interview transcripts *and* skill-graded on the axes your product demands.
+3. **The User Agent drives the UI** — a browser-driving agent navigates as each persona, thinking aloud and generating an interaction trace.
+4. **The Judge Agent scores it** — an independent critic grades each trace against the frameworks above plus your domain rules, separating simulation from critique.
+5. **Signal out** — a severity-ranked critique and a calibration score, visualized as an interactive cohort constellation.
+
+## Why it's different
+
+Every commercial synthetic-user platform synthesizes consumer personas. None grade for domain expertise. None publish calibration reports against real users. The expert-user, calibration-disciplined lane is wide open.
+
+| Dimension | **PreflightUX** | **Aaru** | **Synthetic Users** | **Maze AI** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Primary Focus** | Expert-grade workflow usability & structural friction | Macro-market sentiment & demographic polling | Qualitative concept & copy validation for startups | Traditional unmoderated human usability testing |
+| **Mechanics** | Browser-driving agents on dynamic interfaces | Statistical representations acting as survey respondents | Chat-based generative interviews | Humans executing click-paths |
+| **Moat** | Published Calibration & Academic Peer Review | Proprietary scale and data ingestion | First-mover brand in the AI niche | Access to paid human panels |
+
+## Status
+
+PreflightUX is **pre-launch**. The first design-partner engagement is in progress, the inaugural public calibration report is underway, and the methodology is being formalized for submission to **ACM CHI 2027**. This repository currently hosts the marketing site (built on [OpenCosmos UI](https://studio.opencosmos.ai/)) and the strategic manifesto below.
+
+**Interested in a pre-flight on your next build?** Reach out at [shalom@shalomormsby.com](mailto:shalom@shalomormsby.com).
+
+---
+
+# Strategic Manifesto & Operating Model
+
+*Crystalizing the value proposition, IP strategy, and phased expansion plan for calibrated synthetic UX testing.*
 
 ## 1. The Core Thesis: The Economics of "Pre-Flight" Signal
 
