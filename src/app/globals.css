@@ -13,6 +13,12 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+  /* Offset in-page anchor targets so the sticky header doesn't cover them */
+  scroll-padding-top: 5rem;
+}
+
 body {
   color: var(--foreground);
   background: var(--background);

@@ -13,9 +13,38 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const VALUE_PROP =
+  "Run calibrated synthetic expert users against your early designs, prototypes, and PRDs — surfacing deep workflow friction, graded against the foundational UX frameworks human researchers trust, before you write a line of production code.";
+
 export const metadata: Metadata = {
-  title: "PreflightUX",
-  description: "AI Agent Orchestration & Calibration",
+  metadataBase: new URL("https://preflightux.com"),
+  title: {
+    default: "PreflightUX — Empirical Signal Before the Build",
+    template: "%s — PreflightUX",
+  },
+  description: VALUE_PROP,
+  keywords: [
+    "synthetic UX testing",
+    "usability heuristics",
+    "Nielsen heuristics",
+    "heuristic evaluation",
+    "UX research",
+    "B2B usability",
+    "pre-launch validation",
+  ],
+  authors: [{ name: "Shalom Ormsby" }],
+  openGraph: {
+    type: "website",
+    url: "https://preflightux.com",
+    siteName: "PreflightUX",
+    title: "PreflightUX — Empirical Signal Before the Build",
+    description: VALUE_PROP,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "PreflightUX — Empirical Signal Before the Build",
+    description: VALUE_PROP,
+  },
 };
 
 export default function RootLayout({
