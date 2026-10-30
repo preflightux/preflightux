@@ -12,8 +12,8 @@ export function Credibility() {
         />
         <StatCard
           label="Calibration report"
-          value="In progress"
-          description="The first public benchmark — synthetic findings vs. real users on the same scenarios — is underway."
+          value="The milestone"
+          description="The first public benchmark — synthetic findings vs. real users on the same scenarios — is the founding deliverable, published regardless of outcome."
         />
         <StatCard
           label="Substrate"
