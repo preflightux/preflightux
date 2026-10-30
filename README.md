@@ -6,7 +6,7 @@
 
 *The signal you need before the decision you can't redo.*
 
-**Site:** [preflightux.com](https://preflightux.com) · **Author:** Shalom Ormsby · **Status:** Pre-launch — first design-partner engagement in progress
+**Site:** [preflightux.com](https://preflightux.com) · **Author:** Shalom Ormsby · **Status:** Pre-launch — methodology in development; the founding calibration report is the current milestone
 
 ---
 
@@ -58,7 +58,7 @@ Every commercial synthetic-user platform synthesizes consumer personas. None gra
 
 ## Status
 
-PreflightUX is **pre-launch**. The first design-partner engagement is in progress, the inaugural public calibration report is underway, and the methodology is being formalized for submission to **ACM CHI 2027**. This repository currently hosts the marketing site (built on [OpenCosmos UI](https://studio.opencosmos.ai/)) and the strategic manifesto below.
+PreflightUX is **pre-launch**. The methodology is in development, and nothing here is claimed as proven until it is: the current milestone is the founding calibration report — a pre-registered, arm's-length comparison of synthetic findings against a real 5-user human study on a third-party artifact, published regardless of outcome. The methodology is being prepared for submission to **ACM CHI 2027**. This repository currently hosts the marketing site (built on [OpenCosmos UI](https://studio.opencosmos.ai/)) and the strategic manifesto below.
 
 **Interested in a pre-flight on your next build?** Reach out at [shalom@shalomormsby.com](mailto:shalom@shalomormsby.com).
 
