@@ -2,8 +2,6 @@
 
 **The tracking doc.** One place for what's next, who owns it, and what gates what. Update in place; strike or check items rather than deleting, so the trail stays readable.
 
-**Updated:** 2026-07-05
-
 > **On hold since 2026-10-28**, Shalom's call at the first weekly review, with Gate 1 below. Two things have moved since this was written. [Agency of One ADR 0030](https://github.com/agencyofone/agencyofone/blob/main/docs/decisions/0030-agency-of-one-is-the-offer.md) makes Agency of One the offer, with Preflight a method inside it, so the brand architecture below is superseded. [ADR 0013](https://github.com/agencyofone/agencyofone/blob/main/docs/decisions/0013-preflightux-retained-one-engine-two-faces.md) keeps PreflightUX as the engine's B2B face. Gate 2, the Phase 0 backtest, still decides whether the method has signal at all, whichever face sells it.
 
 ---
