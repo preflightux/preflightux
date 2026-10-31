@@ -30,7 +30,7 @@
 
 ### Gate 2 — Phase 0: the backtest · **Claude's hands, Shalom's judgment** · *runs in parallel, not blocked by Gate 1*
 
-*Can the synthetic pipeline blindly re-find usability findings humans already published?* If not, both B and D rest on noise — stop and fix the method. Protocol: [early-ideation/STRATEGY.md](early-ideation/STRATEGY.md), Part 2–3.
+*Can the synthetic pipeline blindly re-find usability findings humans already published?* If not, both B and D rest on noise — stop and fix the method. Protocol: `docs/early-ideation/STRATEGY.md`, Part 2–3, which stays out of git with the other sensitive docs.
 
 - [ ] Claude: identify 3–5 interfaces with publicly documented usability findings (NN/g case studies, GOV.UK writeups, academic HCI appendices, open-source UX issue logs)
 - [ ] Claude: minimal persona spec (with consent/provenance/fidelity fields — the only permitted on-ramp), Actor prompt (screenshot-sequence mode, no browser automation), Judge prompt in a **different model family**
